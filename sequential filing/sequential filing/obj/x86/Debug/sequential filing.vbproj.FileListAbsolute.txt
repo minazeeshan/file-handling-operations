@@ -1,0 +1,8 @@
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\bin\Debug\sequential filing.exe
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\bin\Debug\sequential filing.pdb
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\bin\Debug\sequential filing.xml
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\obj\x86\Debug\sequential filing.vbproj.GenerateResource.Cache
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\obj\x86\Debug\sequential filing.exe
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\obj\x86\Debug\sequential filing.xml
+E:\Mina Study\Computers\A2 academy programs\sequential filing\sequential filing\obj\x86\Debug\sequential filing.pdb

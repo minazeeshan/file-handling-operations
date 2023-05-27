@@ -1,0 +1,8 @@
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\bin\Debug\serial filing.exe
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\bin\Debug\serial filing.pdb
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\bin\Debug\serial filing.xml
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\obj\x86\Debug\ConsoleApplication2.Resources.resources
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\obj\x86\Debug\serial filing.vbproj.GenerateResource.Cache
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\obj\x86\Debug\serial filing.exe
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\obj\x86\Debug\serial filing.xml
+E:\Mina Study\Computers\A2 academy programs\serial filing\serial filing\obj\x86\Debug\serial filing.pdb
