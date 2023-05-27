@@ -1,0 +1,8 @@
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\obj\x86\Debug\Array to file.vbproj.GenerateResource.Cache
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\bin\Debug\Array to file.exe
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\bin\Debug\Array to file.pdb
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\bin\Debug\Array to file.xml
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\obj\x86\Debug\Array to file.exe
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\obj\x86\Debug\Array to file.xml
+E:\Mina Study\Computers\A2 VisualBasic\Array to file\Array to file\obj\x86\Debug\Array to file.pdb

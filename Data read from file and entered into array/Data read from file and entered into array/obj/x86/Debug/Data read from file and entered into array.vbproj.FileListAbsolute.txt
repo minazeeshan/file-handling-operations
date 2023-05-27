@@ -1,0 +1,11 @@
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\bin\Debug\Data read from file and entered into array.exe
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\bin\Debug\Data read from file and entered into array.pdb
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\bin\Debug\Data read from file and entered into array.xml
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.vbproj.GenerateResource.Cache
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.exe
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.xml
+E:\Mina Study\Computers\A2 VisualBasic\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.pdb
+E:\Mina Study\Computers\A2 VisualBasic\file handling\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.exe
+E:\Mina Study\Computers\A2 VisualBasic\file handling\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.xml
+E:\Mina Study\Computers\A2 VisualBasic\file handling\Data read from file and entered into array\Data read from file and entered into array\obj\x86\Debug\Data read from file and entered into array.pdb
